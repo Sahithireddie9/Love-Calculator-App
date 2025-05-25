@@ -82,5 +82,6 @@ Contact:
 Feel free to reach out for feedback or questions!
 
 Enjoy using the Love Calculator! 💖
+![Screenshot (259)](https://github.com/user-attachments/assets/bbe4223d-703f-49e6-ae9e-116bf00a9832)
 
 
