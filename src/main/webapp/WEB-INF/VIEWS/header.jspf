@@ -1,0 +1,12 @@
+<%@ page session="true" %>
+<%
+    String currentPage = request.getRequestURI();
+    boolean showLogout = !(currentPage.contains("login") || currentPage.contains("register"));
+%>
+
+<% if (showLogout && session.getAttribute("userEmail") != null) { %>
+    <div class="header-bar">
+        Logged in as: <strong><%= session.getAttribute("userEmail") %></strong>
+        | <a href="logout" style="color: #d63384; font-weight: bold;">Logout</a>
+    </div>
+<% } %>
