@@ -83,5 +83,15 @@ Feel free to reach out for feedback or questions!
 
 Enjoy using the Love Calculator! 💖
 ![Screenshot (259)](https://github.com/user-attachments/assets/bbe4223d-703f-49e6-ae9e-116bf00a9832)
+![Screenshot (260)](https://github.com/user-attachments/assets/53b2b6f7-868d-4f2c-acf8-b4842bd98b72)
+![Screenshot (261)](https://github.com/user-attachments/assets/19e24341-d80f-49a6-a5f1-3241d209922c)
+![Screenshot (262)](https://github.com/user-attachments/assets/a164693f-40d3-4586-9ac0-301cdf364816)
+![Screenshot (263)](https://github.com/user-attachments/assets/e1dd5946-6fa7-4793-b144-0f2119259924)
+![Screenshot (264)](https://github.com/user-attachments/assets/eb070aab-301a-46ca-9ab8-377ceda0ddf4)
+![Screenshot (265)](https://github.com/user-attachments/assets/1137081c-dd5c-46a9-add4-336e8f255f09)
+![Screenshot (266)](https://github.com/user-attachments/assets/fa83f72c-57ae-4f2e-9423-a76ad82103b7)
+![Screenshot (267)](https://github.com/user-attachments/assets/bee2118d-8f44-4497-84de-d253b5db0fa7)
+
+
 
 
